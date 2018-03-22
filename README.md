@@ -1,1 +1,1 @@
-# react-component-caching-demo
+# React Component Caching Demo
